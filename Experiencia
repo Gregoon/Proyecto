@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,user-scalab=no">
+		<title>Experiencia</title>
+	</head>
+	<body>
+		<body style="background-color:grey;">
+		<svg width="200" height="50" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer" display="inline">
+  <title>Layer 1</title>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_6" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="124.5" xml:space="preserve" y="17.83333"/>
+  <text fill="#000000" font-family="serif" font-size="24" font-style="italic" font-weight="bold" id="svg_7" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(1.81845 0 0 1.5213 -226.658 -522.065)" x="163.69044" xml:space="preserve" y="363.25347">Gregon</text>
+  <path d="m168.27944,39.03941c-1.99167,-1.15737 -4.26866,-0.43857 -6.46101,-0.52549c-1.92011,-1.22577 -4.25444,0.25939 -6.06396,-0.92103c-2.34009,-1.55493 1.71649,-2.5285 0.85123,-4.37444c-0.09716,-2.65766 -1.62485,-5.06487 -3.23082,-7.29835c-1.13732,-1.77584 -0.73419,-3.81657 -1.1002,-5.71686c-1.31396,-1.3644 -2.62639,-3.05358 -1.06294,-4.73932c1.76602,-1.4216 0.9359,-3.2918 0.24191,-4.93576c1.78566,0.39129 3.8353,2.1734 6.18454,1.81663c1.59766,-0.76648 2.56753,-0.00874 2.83407,1.39415c0.83755,1.80166 1.32629,4.26548 3.96941,4.84658c2.77614,0.59051 5.88451,0.72165 8.08009,2.45415c4.01489,2.80206 5.8765,7.21943 5.71902,11.47714c0.36365,1.99111 3.71751,0.93438 5.37712,1.22803c2.78313,-0.09202 5.45487,0.55922 8.14861,1.00627c2.40426,0.47646 4.44082,-1.03005 6.69993,-1.21067c0.3817,1.74096 -2.58427,2.46634 -4.20417,3.00285c-1.92298,0.60942 -4.00451,0.62384 -5.97987,0.17691c-4.27044,-0.79316 -8.79661,-0.58497 -12.85461,0.80989c-2.19017,0.60084 -4.31694,1.73853 -6.69945,1.59623l-0.4489,-0.08692l0,0.00001l0,0l0,0l0,0z" fill="#7f7f7f" id="svg_1" stroke="#000000" stroke-width="5"/>
+ </g>
+</svg>
+<h1>Hoja de vida.</h1>
+<h2>Edwin Emmanuel Gonzalez Crudo.</h2>
+<h3>Fecha de nacimiento: 02/06/2002</h3>
+<h3>Lugar de nacimiento: Pomona California.</h3>
+    <nav><a href="Inicio.html" target="_blank">Inicio</a>
+			 |
+			<a href="Educación.html" target=":_blank">Educación</a>
+			|
+			<a href="Experiencia.html" target=":_blank">Experiencia</a>
+		</nav>
+		<h2>Experiencia</h2>
+		<h3>Habilidades y profesión</h3>
+		<video width="400" height="400" viewBox="0 0 400 400"controls preload poster="">
+			<source src="" type="video/mp4"/>
+		</video>
+		<h3>Hobbies y tiempo libre</h3>
+		<audio controls preload>
+			<source src="Hobbies.mp3" type="audio/mp3">
+				</audio>
+				<footer>
+	<address>
+			<p>
+				<strong>Contacto:</strong> <a href="mailto:edwin.ec833@gmail.com">Email</a> | <strong>Instagram:</strong> <a href="https://www.instagram.com/gregon_knife/">gregon_kinfe</a> | <strong>Ciudad:</strong><a href="https://www.google.com.co/maps/place/Tecate,+B.C./@32.5620649,-116.6928106,12z/data=!3m1!4b1!4m5!3m4!1s0x80d90ea89a5f62e7:0x84a7f77c07cd016e!8m2!3d32.563609!4d-116.6256752"> tecate BC.</a>
+			</p>
+	</address>
+		</footer>
+	</body>
+</html>
